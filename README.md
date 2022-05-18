@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammed Muzammil Kt</h1>
 <h3 align="center">A passionate full developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/muzammilkt](https://github.com/muzammilkt)
+
+- 📫 How to reach me **muzammilktmuhammed@gmail.com**
+
+- 📄 Know about my experiences [Muhammed Muzammil KT](Muhammed Muzammil KT)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
